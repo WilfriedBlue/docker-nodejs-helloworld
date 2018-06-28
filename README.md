@@ -25,9 +25,9 @@ GUI ( Graphical User Interface ) for docker
 
 ```bash
 # Download the docker image
-git clone https://github.com/simplon-roanne/docker-nodejs
+git clone https://github.com/simplon-roanne/docker-nodejs-helloworld
 # Go to the newly created directory
-cd dev-docker
+cd docker-nodejs-helloworld
 ```
 
 ## Creating the containers and running them immediatly ( without using Kitematic )
